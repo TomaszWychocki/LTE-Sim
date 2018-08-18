@@ -1,7 +1,7 @@
 # Pszemeg
 > TCP/UDP client-server application to simulate LTE communication
 
-[![Build Status][https://travis-ci.com/wychotom/pszemeg.svg?branch=master]][https://travis-ci.com/wychotom/pszemeg.svg?branch=master]
+![](https://api.travis-ci.com/wychotom/pszemeg.svg?branch=master)
 
 ## Building
 
