@@ -1,4 +1,4 @@
-# Pszemeg
+# LTE-Sim
 > TCP/UDP client-server application to simulate LTE communication
 
 ![](https://api.travis-ci.com/wychotom/pszemeg.svg?branch=master)
